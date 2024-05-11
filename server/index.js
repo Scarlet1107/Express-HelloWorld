@@ -1,3 +1,4 @@
+// Start with "node .\server\index.js"
 // Expressモジュールをインポート
 const express = require('express');
 const app = express();
